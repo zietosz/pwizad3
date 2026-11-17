@@ -1,0 +1,55 @@
+Linux pwi 6.8.0-142-generic #142-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep  2 14:30:29 UTC 2026 aarch64 aarch64 aarch64 GNU/Linux
+MemTotal:        2002136 kB
+MemFree:          479892 kB
+MemAvailable:    1741804 kB
+Buffers:           56964 kB
+Cached:          1143812 kB
+SwapCached:            0 kB
+Active:           203168 kB
+Inactive:        1038452 kB
+Active(anon):      48456 kB
+Inactive(anon):     1036 kB
+Active(file):     154712 kB
+Inactive(file):  1037416 kB
+Unevictable:       26360 kB
+Mlocked:           26360 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:         67248 kB
+Mapped:            60840 kB
+Shmem:              1188 kB
+KReclaimable:     160152 kB
+Slab:             219428 kB
+SReclaimable:     160152 kB
+SUnreclaim:        59276 kB
+KernelStack:        2032 kB
+ShadowCallStack:     516 kB
+PageTables:         2608 kB
+SecPageTables:         0 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     1001068 kB
+Committed_AS:     256784 kB
+VmallocTotal:   133141626880 kB
+VmallocUsed:        9504 kB
+VmallocChunk:          0 kB
+Percpu:             1696 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:          32768 kB
+CmaFree:           13340 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
