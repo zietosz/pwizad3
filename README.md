@@ -1,2 +1,1 @@
-# pwizad3
-jak w nazwie
+Zadanie 3 z listy 6 z PWI
